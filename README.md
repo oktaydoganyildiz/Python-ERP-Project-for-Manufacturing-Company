@@ -31,12 +31,12 @@ delayed deliveries, pending stocks and high-cost purchases due to stock manageme
 problems.
 
 # Features
-Inventory Tracking Module
-ABC Classification
-Admin/User Panel
-Production Module with gun chart
-Safety stock calculation
-Forecasting Module
+Inventory Tracking Module<br />
+ABC Classification<br />
+Admin/User Panel<br />
+Production Module with gun chart<br />
+Safety stock calculation<br />
+Forecasting Module<br />
 
 
 # Module Diagram of ERP Application
