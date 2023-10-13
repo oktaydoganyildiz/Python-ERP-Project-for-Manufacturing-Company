@@ -48,6 +48,11 @@ Forecasting Module<br />
 # Administration Panel
 ![2023-10-13 18_40_41-IE4197_Final_progress_Report_G5 pdf ve diğer 3 sayfa - Kişisel - Microsoft​ Edge](https://github.com/oktaydoganyildiz/Customer-Segmentation-with-RFM/assets/70387935/d66a5de4-8e18-4814-882f-00e4ed841c6e)
 
+
+#  Main Page of the Inventory Module
+![2023-10-13 19_10_22-IE4197_Final_progress_Report_G5 pdf ve diğer 3 sayfa - Kişisel - Microsoft​ Edge](https://github.com/oktaydoganyildiz/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/assets/70387935/26bf439c-0d4f-447f-aff0-dd5bb440d637)
+
+
 # Production Plan According to Production Orders
 ![2023-10-13 18_42_08-IE4197_Final_progress_Report_G5 pdf ve diğer 3 sayfa - Kişisel - Microsoft​ Edge](https://github.com/oktaydoganyildiz/Customer-Segmentation-with-RFM/assets/70387935/39419f1e-7780-46f5-a94e-699e7f18bd80)
 
