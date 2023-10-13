@@ -1,5 +1,14 @@
 # Python-ERP-Project-for-Manufacturing-Company
 
+In today's business world, the problem of adapting to the developing technologies 
+causes great losses for small and medium-sized companies. Especially for companies in the 
+manufacturing industry, production and order-based inventory designs are of vital 
+importance. At this point, a detailed research was conducted on inventory management in 
+Çelik Metal Sanayi, a small / medium sized company operating in the manufacturing 
+industry. The main purpose of the project is to increase productivity by designing an 
+inventory tracking and planning program in order to use inventories more effectively.
+
+
 Çelik Metal Sanayi is located in Beyoğlu, Istanbul. Total manufacturing area is 
 400m2, office area is 70m2 and inventory area is 120m2. There are 4 white-collar and 16 
 blue-collar workers in the company.
@@ -21,6 +30,14 @@ problems with inappropriate software. As a result of all these, vital issues occ
 delayed deliveries, pending stocks and high-cost purchases due to stock management 
 problems.
 
+# Features
+Inventory Tracking Module
+ABC Classification
+Admin/User Panel
+Production Module with gun chart
+Safety stock calculation
+Forecasting Module
+
 
 # Module Diagram of ERP Application
 ![2023-10-13 18_37_32-IE4197_Final_progress_Report_G5 pdf ve diğer 3 sayfa - Kişisel - Microsoft​ Edge](https://github.com/oktaydoganyildiz/Customer-Segmentation-with-RFM/assets/70387935/3c98e21b-aefd-419f-bbcf-fbbb2f9e21ae)
@@ -39,10 +56,3 @@ problems.
 
 
 
-
-
-
-# Python-ERP-Project-for-Manufacturing-Company
-ERP Application with ABC analysis, forecasting, safety stock, gun chart
-
-Database of project is written/created with SQL lite. 
